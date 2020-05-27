@@ -1,0 +1,51 @@
+{
+	"pages": [
+		// {
+		// 	"path": "pages/self/self",
+		// 	"style": {
+		// 		"navigationStyle": "custom"
+		// 	}
+		// },
+		
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		
+		{
+			"path": "pages/bindPhone/bindPhone",
+			"style": {
+				"navigationBarTitleText": "手机绑定",
+				"navigationBarBackgroundColor": "#65AADD",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/detail/detail",
+			"style": {
+				"navigationBarTitleText": "产品信息",
+				"navigationBarBackgroundColor": "#F7F7FC",
+				"navigationBarTextStyle": "black"
+			}
+		}
+		
+		
+		
+		// {
+		// 	"path": "pages/wallet/wallet",
+		// 	"style": {
+		// 		"navigationStyle": "custom"
+		// 	}
+		// },
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
